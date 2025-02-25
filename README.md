@@ -58,7 +58,7 @@ Me chamo Ana Luiza Muniz Sousa, tenho 19 anos e sou natural de São Paulo. Atual
     align="left" 
     alt="Tailwnd" 
     title="Tailwind"
-    width="50px" 
+    width="90px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
 />
