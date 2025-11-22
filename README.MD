@@ -1,12 +1,8 @@
-<h1 align="center">Ana Luiza Muniz Sousa/h1>
-
-<p align="center">
-  Estudante de TI · Desenvolvedora em Formação
-</p>
+<h1 align="center">Ana Luiza Muniz Sousa<h1>
 
 ---
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
