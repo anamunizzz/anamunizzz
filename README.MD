@@ -1,4 +1,4 @@
-<h1 align="center">Bruna Lopez Pinheiro</h1>
+<h1 align="center">Ana Luiza Muniz Sousa/h1>
 
 <p align="center">
   Estudante de TI · Desenvolvedora em Formação
@@ -26,9 +26,9 @@
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/bruna-lopez/
-- GitHub: https://github.com/brunalopez11
-- E-mail: brunalopez.421@gmail.com
+- LinkedIn: 
+- GitHub: 
+- E-mail: 
 
 ---
 
