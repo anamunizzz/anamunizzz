@@ -23,8 +23,8 @@
 ## Contato
 
 - LinkedIn: 
-- GitHub: 
-- E-mail: 
+- GitHub: https://github.com/anamunizzz
+- E-mail: analuizamunizsousa@gmail.com
 
 ---
 
